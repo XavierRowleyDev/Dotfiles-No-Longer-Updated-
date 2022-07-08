@@ -1,0 +1,18 @@
+[2022-07-08 21:06:47.057] [sharedprocess] [info] Starting worker process with pid 36355 (type: fileWatcher, window: 1).
+[2022-07-08 21:07:00.020] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-07-08 21:07:00.023] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-07-08 21:07:01.865] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/xarsis/.config/VSCodium/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-07-08 21:07:01.891] [sharedprocess] [info] Extracted extension to /home/xarsis/.vscode-oss/extensions/.fb8858a1-9f32-4af4-a9e3-7bc95702cf8f: dracula-theme.theme-dracula
+[2022-07-08 21:07:01.894] [sharedprocess] [info] Renamed to /home/xarsis/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-07-08 21:07:01.895] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-07-08 21:07:01.896] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2022-07-08 21:07:27.099] [sharedprocess] [info] Uninstalling extension: dracula-theme.theme-dracula@2.24.2
+[2022-07-08 21:07:27.220] [sharedprocess] [info] Detected extension removed from another source dracula-theme.theme-dracula
+[2022-07-08 21:07:27.537] [sharedprocess] [info] Successfully uninstalled extension: dracula-theme.theme-dracula@2.24.2
+[2022-07-08 21:07:30.956] [sharedprocess] [info] Getting Manifest... mathcale.theme-dracula-refined
+[2022-07-08 21:07:30.960] [sharedprocess] [info] Installing extension: mathcale.theme-dracula-refined
+[2022-07-08 21:07:32.726] [sharedprocess] [info] Downloaded extension: mathcale.theme-dracula-refined /home/xarsis/.config/VSCodium/CachedExtensionVSIXs/mathcale.theme-dracula-refined-2.24.2
+[2022-07-08 21:07:32.778] [sharedprocess] [info] Extracted extension to /home/xarsis/.vscode-oss/extensions/.9423f7b9-05fd-4315-8619-94c90a9d14ae: mathcale.theme-dracula-refined
+[2022-07-08 21:07:32.781] [sharedprocess] [info] Renamed to /home/xarsis/.vscode-oss/extensions/mathcale.theme-dracula-refined-2.24.2
+[2022-07-08 21:07:32.782] [sharedprocess] [info] Extracting completed. mathcale.theme-dracula-refined
+[2022-07-08 21:07:32.783] [sharedprocess] [info] Extension installed successfully: mathcale.theme-dracula-refined
